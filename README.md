@@ -1,7 +1,7 @@
 # Hi, I'm Varun Iyer 👋
-### Senior Mobile Architect | Flutter & React Native Systems Expert
+### Senior Mobile Developer | Flutter & React Native Systems Expert
 
-I am a Results-oriented Senior Flutter Architect with 5 years of experience engineering high-scale, secure mobile applications for Fintech and Smart-City sectors. Currently, I'm evolving into full-stack orchestration, leveraging Node.js, Docker, and Camunda to build process-driven, end-to-end mobile ecosystems.
+I am a Results-oriented Senior Flutter Developer with 5 years of experience engineering high-scale, secure mobile applications for Fintech and Smart-City sectors. Currently, I'm evolving into full-stack orchestration, leveraging Node.js, Docker, and Camunda to build process-driven, end-to-end mobile ecosystems.
 
 ---
 
